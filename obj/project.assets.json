@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/nigelwilkins/.nuget/packages/": {}
+    "C:\\Users\\kentc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHResturauntPicker(9)/gitHubResturauntPicker.csproj",
+      "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\WilkinsHResturauntPicker-9-\\gitHubResturauntPicker.csproj",
       "projectName": "gitHubResturauntPicker",
-      "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHResturauntPicker(9)/gitHubResturauntPicker.csproj",
-      "packagesPath": "/Users/nigelwilkins/.nuget/packages/",
-      "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHResturauntPicker(9)/obj/",
+      "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\WilkinsHResturauntPicker-9-\\gitHubResturauntPicker.csproj",
+      "packagesPath": "C:\\Users\\kentc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\WilkinsHResturauntPicker-9-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nigelwilkins/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kentc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
